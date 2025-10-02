@@ -1,3 +1,6 @@
+// Copyright James Burvel O’Callaghan III
+// President Citibank Demo Business Inc.
+
 Reframe of your ask (short & exact):
 
 You want the 70 AI-as-OS concepts converted into a table where each concept includes four guiding questions (the original question plus three new, deeper/design/programming questions) and a list of programming / implementation languages and targets that could be used to build or prototype that concept. You specifically want to include COBOL (for business-backend logic), assembly and bytecode-level options, pixel/shader languages (for “pixel frame / hi-code”), and many other languages so the table proves the idea to the broader “type world” (programming community).
